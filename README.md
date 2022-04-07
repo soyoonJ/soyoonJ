@@ -20,6 +20,6 @@
 
 <div align="center">
   
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=soyoonJ&show_icons=true&theme=omni&count_private=true&hide_border=true" align="center" />     <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoonJ&hide_border=true&theme=omni&layout=compact" align="center" />
-
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=soyoonJ&show_icons=true&theme=omni&count_private=true&hide_border=true" align="center" /> |    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoonJ&hide_border=true&theme=omni&layout=compact" align="center" />
+:-------------------------:|:-------------------------:
 </div>
