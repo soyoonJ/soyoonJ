@@ -23,7 +23,7 @@
 <div align="center">
   
   [![sytkfkd96@gmail.com](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sytkfkd96@gmail.com)](mailto:sytkfkd96@gmail.com)
-  [![ddullu_s@gmail.com](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:ddullu_s@gmail.com)](mailto:ddullu_s@gmail.com) 
+  [![ddullu_s@naver.com](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:ddullu_s@naver.com)](mailto:ddullu_s@naver.com) 
   
 </div>
 
