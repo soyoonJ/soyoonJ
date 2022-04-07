@@ -1,4 +1,4 @@
-# 😆 ABOUT ME
+# 👋 Hi, I'm Soyoon
 ### <p align="center">📃 Blog 📃</p>
 <div align="center">
   <a href="https://jipsadiary.tistory.com/"><img src="https://img.shields.io/badge/tistory-000?style=for-the-badge&logoColor=fff"></a>&nbsp;
