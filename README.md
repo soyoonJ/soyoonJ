@@ -8,7 +8,9 @@
 ### <p align="center">👍 Tech 👍</p>
 
 <div align="center">
-  
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=fff">&nbsp;    
+  </br>
+      
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=2d2d2d">&nbsp;
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=2d2d2d">&nbsp;
   </br>
@@ -33,8 +35,6 @@
 ### <p align="center">🔎 Hello World! 🔎</p>
 
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=fff">&nbsp;
   <img src="https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=nextdotjs&logoColor=fff">&nbsp;
   <br/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=fff">&nbsp;
