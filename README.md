@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Soyoon
 
-### <p align="center">👍 Tech 👍</p>
+### <p align="center">👍 2024 항해플러스 수료 👍</p>    
+
+<div align="center">
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+  </a>    
+</div>
+
+### <p align="center">👍 Tech 👍</p>    
 
 <div align="center">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=fff">&nbsp;    
