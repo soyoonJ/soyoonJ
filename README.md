@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soyoon
 
-### <p align="center">👍 2024 항해플러스 수료 👍</p>    
+### <p align="center">👍 2024 항해플러스 블랙뱃지 수료 👍</p>    
 
 <div align="center">
   <a href="https://hhpluscertificateofcompletion.oopy.io/">
@@ -11,14 +11,11 @@
 ### <p align="center">👍 Tech 👍</p>    
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=fff">&nbsp;    
-  </br>
-    
   <img src="https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=nextdotjs&logoColor=fff">&nbsp;  
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=2d2d2d">&nbsp;
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=2d2d2d">&nbsp;
   </br>
-  
+
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=fff">&nbsp;      
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=2d2d2d">&nbsp;
   <img src="https://img.shields.io/badge/Pinia-4FC08D?style=for-the-badge&logo=Pinia&logoColor=2d2d2d">&nbsp;
   <img src="https://img.shields.io/badge/Vitest-4FC08D?style=for-the-badge&logo=Vitest&logoColor=2d2d2d">&nbsp;
